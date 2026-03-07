@@ -1,6 +1,0 @@
-names:
-  0: thumbs_up
-  1: no_gesture
-path: /content/hagrid-thumbsup/hagrid-thumbsup
-train: train/images
-val: val/images
